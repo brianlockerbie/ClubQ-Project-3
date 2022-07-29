@@ -1,6 +1,5 @@
-## ClubQ - A Unique Queing System
-
-A MERN application
+<h1 align="center">ClubQ - A Unique Queing System </h1>
+<p align="center">Project-3 Interactive MERN SPA Project</p>
 
 ## Installation
 
