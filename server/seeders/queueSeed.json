@@ -1,0 +1,18 @@
+[
+  {
+    "queueId": "Q20220701",
+    "wait_time": 5
+  },
+  {
+    "queueId": "Q20220702",
+    "wait_time": 3
+  },
+  {
+    "queueId": "Q20220703",
+    "wait_time": 10
+  },
+  {
+    "queueId": "Q20220704",
+    "wait_time": 20
+  }
+]
